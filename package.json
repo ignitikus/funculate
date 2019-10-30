@@ -11,5 +11,14 @@
   "license": "ISC",
   "devDependencies": {
     "jest": "^24.9.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ignitikus/funculate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ignitikus/funculate/issues"
+  },
+  "homepage": "https://github.com/ignitikus/funculate#readme"
 }
